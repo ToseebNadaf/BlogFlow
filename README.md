@@ -1,4 +1,4 @@
-# BlogFlow
+# BlogFlow - Blogging Backend Application
 
 **BlogFlow** is a modern, scalable, and feature-rich blog application backend built with **TypeScript**, **NestJS**, **GraphQL**, and **Prisma**. It uses **PostgreSQL** for efficient data storage and retrieval, providing a seamless experience for managing blog posts, user authentication, comments, tags, and likes. Whether you're building a personal blog or a content management system, BlogFlow is designed to make development easier and more enjoyable.
 
